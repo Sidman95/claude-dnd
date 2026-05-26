@@ -1,132 +1,89 @@
-# Tamwin Badgerfoot - Stout Halfling Fighter
+# Золон — Человек-Воин
 
-## Basic Information
-- **Class:** Fighter (Level 2)
-- **Race:** Stout Halfling
-- **Background:** Town Watch
-- **Age:** 22 (turning 23 next summer)
-- **XP:** 400/900 (Level 2 → Level 3)
+## Основные данные
+- **Класс:** Воин (Уровень 1)
+- **Раса:** Человек
+- **Предыстория:** Солдат (Soldier)
+- **Возраст:** 52 года
+- **Опыт (XP):** 0/300
 
-## Ability Scores
-- **STR:** 12 (+1)
-- **DEX:** 15 (+2)
-- **CON:** 13 (+1)
-- **INT:** 8 (-1)
-- **WIS:** 12 (+1)
-- **CHA:** 10 (+0)
+## Характеристики
+- **СИЛ:** 16 (+3)
+- **ЛОВ:** 12 (+1)
+- **ВЫН:** 15 (+2)
+- **ИНТ:** 11 (+0)
+- **МДР:** 14 (+2)
+- **ХАР:** 10 (+0)
 
-## Combat Statistics
-- **HP:** 18/18 (Hit Dice: 2d10, used: 0)
-- **AC:** 15 (studded leather 12 + DEX +2 + Defense style +1)
-- **Speed:** 25 ft (Halfling)
-- **Initiative:** +2
-- **Proficiency Bonus:** +2
-- **Injuries:** None
+## Боевые показатели
+- **ХП:** 12/12 (Кость хитов: 1d10, использовано: 0)
+- **КЗ:** 16 (кольчуга)
+- **Скорость:** 30 фт
+- **Инициатива:** +1
+- **Бонус мастерства:** +2
+- **Травмы:** Нет
 
-### Saving Throws
-- **STR:** +3 (proficient)
-- **DEX:** +2
-- **CON:** +3 (proficient)
-- **INT:** -1
-- **WIS:** +1
-- **CHA:** +0
+### Спасброски
+- **СИЛ:** +5 (умение)
+- **ВЫН:** +4 (умение)
+- **ЛОВ:** +1
+- **ИНТ:** +0
+- **МДР:** +2
+- **ХАР:** +0
 
-## Skills
-**Proficient:**
-- **Athletics:** +3 (STR)
-- **Intimidation:** +2 (CHA)
-- **Perception:** +3 (WIS)
-- **Survival:** +3 (WIS)
+## Навыки
+**Владение:**
+- **Атлетика:** +5 (СИЛ)
+- **Запугивание:** +2 (ХАР)
+- **Восприятие:** +4 (МДР)
+- **Проницательность:** +4 (МДР)
 
-**Passive Perception:** 13
+**Пассивное Восприятие:** 14
 
-## Racial Traits
-**Halfling:**
-- **Lucky:** When you roll a 1 on d20 for attack/check/save, reroll the die (must use new roll)
-- **Brave:** Advantage on saves against being frightened
-- **Halfling Nimbleness:** Can move through space of Medium or larger creatures
-- **Size:** Small
-- **Speed:** 25 ft
+## Расовые черты (Человек)
+- +1 ко всем характеристикам (уже учтено выше)
+- Дополнительный навык: Восприятие
+- Дополнительный язык: Торговый + Имперский
 
-**Stout Halfling:**
-- **Stout Resilience:** Advantage on saves against poison, resistance to poison damage
+## Классовые черты
+**Воин (Уровень 1):**
+- **Боевой стиль — Дуэль:** +2 к броскам урона одноручным оружием (когда в другой руке нет оружия)
+- **Второе Дыхание:** Бонусное действие — восстановить 1d10+1 ХП (восстанавливается на короткий или долгий отдых) — **[ДОСТУПНО]**
 
-## Class Features
-**Fighter (Level 2):**
-- **Fighting Style - Defense:** +1 AC while wearing armor (already included in AC above)
-- **Second Wind:** Bonus action to heal 1d10+2 HP (recharges on short or long rest) - **[AVAILABLE]**
-- **Action Surge:** Once per short or long rest, take one additional action on your turn. This extra action can be used to Attack, Dash, Disengage, Dodge, Help, Hide, Ready, Search, or Use an Object. - **[AVAILABLE]**
+## Атаки
 
-## Attacks
-> Actual weapon ownership tracked in `inventory.md`.
+### Королевский длинный меч (подарок короля)
+- **Атака:** +5 к попаданию (СИЛ +3, умение +2)
+- **Урон:** 1d8+5 рубящий (Дуэль +2, СИЛ +3)
+- **Свойства:** Универсальное (1d10 двуручный)
+- **Примечание:** Превосходная ковка, клеймо королевского оружейника
 
-### Shortsword
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d6+2 piercing
-- **Properties:** Finesse, light
+### Кинжал (запасной)
+- **Атака:** +5 к попаданию
+- **Урон:** 1d4+3 колющий
+- **Дальность:** 20/60 фт (метательное)
 
-### Shortbow
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d6+2 piercing
-- **Range:** 80/320 ft
-- **Properties:** Ammunition, two-handed
+## Черта предыстории
+**Воинское звание (Солдат):** Бывший полководец. Солдаты низшего чина узнают Золона и относятся с уважением. Доступ в военные таверны, казармы, снаряжение по себестоимости через старых сослуживцев.
 
-### Dagger
-- **Attack:** +4 to hit (DEX +2, proficiency +2)
-- **Damage:** 1d4+2 piercing
-- **Range:** 20/60 ft (thrown)
-- **Properties:** Finesse, light, thrown
+## Предыстория
+Сорок два года на службе короля. Начал с десяти лет — паж при штабе, потом рядовой, потом офицер, потом командир. Прошёл семь кампаний, три войны, одну оккупацию. Видел, как королевство менялось: сначала в лучшую сторону, потом — нет.
 
-## Background Feature
-**Watcher's Eye (Town Watch):** Familiar with urban environments and law enforcement. Can easily find watch posts, guard stations, and local authority figures. Knows how patrols work and can spot trouble in settled areas.
+Два года назад пошёл разговор о том, что армию "реструктурируют". Старых командиров убирают, ставят тех, кто покорнее. Золон понял — и написал прошение раньше, чем его попросили. Король принял, наградил лично. Меч из рук монарха, пожатие, улыбка. Золон смотрел в эти глаза и ничего в них не нашёл.
 
-## Backstory
-Tamwin Badgerfoot was always the biggest kid around—teased that his Ma must have run off with a dwarf, since his Pa certainly wasn't any taller than anyone else. But his size had its perks, and it helped him land a job on the Burlap town watch.
+Теперь — пятьдесят два года, полный кошелёк и пустые дни.
 
-Now that Ma and Pa are getting on, their small dwelling under Bagshott Row doesn't feel like it fits anymore. Of late, Tamwin's been feeling the pull of the road—like there's more of the world he doesn't know about yet—and a strange tingling inside him that means he NEEDS to know.
+## Снаряжение и валюта
+> **См. `inventory.md`**
 
-So he's set off to explore. Da gave him a firm handshake and a carved wooden badger, and Ma packed him enough provisions to feed a small army.
+## Известные НПС и контакты
+> **См. `npcs.md`**
 
-## Personality
-- Kind soul at heart with a strong moral compass
-- Fond of a pipe, fonder of dinner and a mug or three of ale
-- Curious about the wider world
-- Unusually tall for a halfling (source of past teasing but also confidence)
-- Protective instincts from watch experience
+## Известные места
+> **См. `locations.md`**
 
-## Equipment & Currency
-> **See `inventory.md`** for all equipment, gear, consumables, and currency.
-
-## Known NPCs & Contacts
-> **See `npcs.md`** for all NPC details and relationship information.
-
-## Known Locations
-> **See `locations.md`** for all explored location descriptions.
-
-## Combat Record
-**Day 1 - Bandit Ambush (Forest Clearing):**
-- Killed: Bandit 2 (2 arrow hits, 14 damage total)
-- Wounded: Bandit 1 (shortsword, 4 damage) - fled
-- Intimidated: Bandits 1 & 3 surrendered and fled
-- Damage taken: 2 bludgeoning (club to shoulder)
-- **First kill** - weighing on conscience
-
-**Day 2 - Feral Dogs (Rodrick Vane's Cabin):**
-- Killed: 4 feral dogs (1 mastiff + 3 mutts)
-  - 3 dogs killed via wolfsbane poison (tactical planning)
-  - 1 dog killed in combat (arrow hit for 5 damage, shortsword killing blow for 6 damage)
-- Party: Tamwin, Wald, Jory, Cole, Aldric (5 total)
-- Damage taken: None
-- Tactics: Stealth approach, poisoned bait, fire control, coordinated attacks
-
-## Notable Achievements
-- **Day 1:** Rescued Wellan Cray (merchant) from bandits on Old Road
-- **Day 1:** First combat encounter - survived and showed mercy
-- **Day 2:** Solved the Millstone Murders investigation in one day
-- **Day 2:** Led successful hunting party with zero casualties
-- **Day 2:** Earned reputation for fairness by sharing quest reward with party members
-- **Day 2:** LEVEL UP - Reached Fighter Level 2
+## Боевой учёт
+*(пусто — кампания только началась)*
 
 ---
-
-*Last Updated: Session 2 - Day 2 morning*
+*Последнее обновление: Сессия 1 — День 1*
