@@ -52,13 +52,16 @@ A martial-Force hybrid for player characters in training.
 - **Lightsaber Mastery:** Proficient with lightsabers. Use DEX for attack and damage. Lightsabers ignore non-magical armor's AC bonus on a hit.
 - **Force Powers:** Know 3 Force powers. Force Pool = 2 + WIS mod. Regain all on long rest, half on short rest. Force save DC = 8 + Proficiency + WIS mod.
 
-### Force Powers (Level 1)
+### Force Powers (Standard Padawan Set)
 
 | Name | Cost | Effect |
 |---|---|---|
 | **Force Sense** | Free (at-will) | Sense lifeforms within 60 ft for 1 min. Spend 1 FP to also gain advantage on initiative for 1 min. |
 | **Force Push** | 1 FP | 15-ft cone. STR save. Fail: pushed 10 ft + prone. Bonus action. |
+| **Force Pull** | 1 FP | One creature or unattended object within 30 ft. Creature: STR save, fail = pulled 15 ft toward you. Object (up to 25 lbs): flies into your free hand. Bonus action. |
 | **Force Jump** | 1 FP | Bonus action. Triple your jump distance this turn; no fall damage from up to 30 ft this round. |
+| **Force Speed** | 1 FP | Bonus action. For 1 minute: speed doubles, advantage on DEX saves, +2 AC. Does not require concentration. When the effect ends, you are winded — no bonus action on your next turn. |
+| **Telekinesis** | 2 FP | Action. Concentration, up to 1 minute. Choose a creature or object within 60 ft you can see. **Object** (up to 50 lbs at level 1): each round, as an action or bonus action while concentrating, move the object up to 30 ft; or throw it as a ranged attack (+5 to hit, 1d8 + WIS mod bludgeoning, larger objects deal more at GM discretion). **Creature:** contested check — your WIS check vs their STR or DEX (their choice). Win: move target up to 30 ft, hold suspended (restrained). Target may repeat the contest each of its turns. Higher-level Jedi raise the weight cap and add precision. |
 | **Mind Trick** | 1 FP | One creature within 30 ft, WIS save. Fail: follows one simple, non-harmful suggestion for 1 minute. Wisdom 12+ creatures have advantage; Force-sensitive immune. |
 | **Saber Throw** | 1 FP | Bonus action. Throw lightsaber as ranged attack (range 20/60). 1d8 radiant on hit. Returns to hand at start of next turn. |
 | **Force Healing** | 1 FP | Action. Touch a creature. Restore 1d8 + WIS mod HP. Self or ally. |

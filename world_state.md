@@ -14,7 +14,7 @@ There is something *wrong* in the Force. Most Jedi feel it. None can name it. Th
 - **Location:** Aboard the Venator-class cruiser **Resolute Tide**, en route to the planet **Vorlag** in the Mid Rim.
 - **Time:** Approximately 0600 ship-time. Just woken from meditation.
 - **HP:** 11 / 11
-- **Force Pool:** 6 / 6
+- **Force Pool:** 8 / 8
 - **Hit Dice:** 1/1
 - **Credits:** 150
 - **Conditions:** None

@@ -6,7 +6,8 @@
 
 - **Location:** Sid's quarters aboard the Venator-class *Resolute Tide*, in orbit dropping toward Vorlag.
 - **Time:** ~0600 ship-time. Morning of arrival.
-- **HP:** 11/11. **Force Pool:** 6/6. **Conditions:** none.
+- **HP:** 11/11. **Force Pool:** 8/8. **Conditions:** none.
+- **Powers known:** Force Sense (at-will), Push, Pull, Jump, Speed, Telekinesis, Mind Trick, Saber Throw, Healing.
 - **Present nearby:** Master Tann Lorrik (location TBD — likely on bridge or in briefing room), Captain CT-7549 "Reez" (likely bridge).
 - **The 327th:** aboard, ~80 clones, getting kitted for drop.
 
